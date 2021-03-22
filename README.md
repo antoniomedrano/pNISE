@@ -5,7 +5,7 @@ A parallelized NISE algorithm applied toward biobjective shortest path analysis 
 Contains both a graphical implementation using Processing, and a non-graphical but faster implementation in Java. Data is included in both.
   
 **Requirements**  
-[Processing](https://processing.org/): last tested with v3.5.3  
+[Processing](https://processing.org/): last tested with v3.5.4  
 Java SDK: last tested with Java SE 8 Update 66  
 *update contributions are welcome*  
 
