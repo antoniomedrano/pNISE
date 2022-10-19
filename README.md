@@ -16,6 +16,6 @@ The Java version takes 3 arguments in order: *R OD parallelism*
 All other parameters such as which map data to use can be modified in code.  
   
 ## References  
-1. Medrano, F.A., & Church, R.L. (2015). A Parallel Computing Framework for Finding the Supported Solutions to a Biobjective Network Optimization Problem. *Journal of Multi-Criteria Decision Analysis, 22*(5-6), 244-259. https://doi.org/10.1002/mcda.1541  
-2. Medrano F.A. (2021). Effects of raster terrain representation on GIS shortest path analysis. PLoS ONE 16(4): e0250106. https://doi.org/10.1371/journal.pone.0250106
+1. Medrano, F.A., & Church, R.L. (2015). A Parallel Computing Framework for Finding the Supported Solutions to a Biobjective Network Optimization Problem. *Journal of Multi-Criteria Decision Analysis*, 22(5-6), pp. 244-259. https://doi.org/10.1002/mcda.1541  
+2. Medrano F.A. (2021). Effects of raster terrain representation on GIS shortest path analysis. *PLoS ONE*, 16(4) : e0250106. https://doi.org/10.1371/journal.pone.0250106
 3. Cohon, J.L., Church, R.L., & Sheer, D.P. (1979). Generating multiobjective trade-offs: an algorithm for bicriterion problems. *Water Resources Research*, 15(5), 1001-1010. 
