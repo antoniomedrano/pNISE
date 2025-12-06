@@ -2,7 +2,7 @@
 A parallelized NISE algorithm written in Java applied toward biobjective shortest path analysis on raster grids used in Medrano & Church (2015) and in Medrano (2021). Serial NISE was originally published in Cohon *et al.* (1979)  
   
 ## Contents
-Contains both a graphical implementation using Processing, and a non-graphical but faster implementation in Java. Data is included in both.
+Contains both a graphical implementation using Processing Java library, and a non-graphical but faster implementation in standalone Java. Data is included in both.
   
 **Requirements**  
 [Processing](https://processing.org/): last tested with v3.5.4  
