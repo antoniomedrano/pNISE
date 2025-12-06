@@ -1,5 +1,5 @@
 # pNISE
-A parallelized NISE algorithm applied toward biobjective shortest path analysis on raster grids used in Medrano & Church (2015) and in Medrano (2021). Serial NISE was originally published in Cohon *et al.* (1979)  
+A parallelized NISE algorithm written in Java applied toward biobjective shortest path analysis on raster grids used in Medrano & Church (2015) and in Medrano (2021). Serial NISE was originally published in Cohon *et al.* (1979)  
   
 ## Contents
 Contains both a graphical implementation using Processing, and a non-graphical but faster implementation in Java. Data is included in both.
